@@ -1,8 +1,6 @@
 
 
 
-<!-- PROJECT LOGO -->
-<br />
 <div align="center">
  <a href="https://unindra.ac.id/">
     <img src="https://unindra.ac.id/sites/default/files/unindra%20kampus%20merdeka.png" alt="Logo" width="200" height="50">
@@ -20,6 +18,20 @@
     <br />
    
   </p>
+
+
+<a href="https://www.linkedin.com/in/kh-adham/" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
+</a>
+<a href="https://wa.me/6289643849077" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="LinkedIn Badge">
+</a>
+<a href="https://www.youtube.com/@SafaOutdoorYT" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="LinkedIn Badge">
+</a>
+<a href="https://www.instagram.com/safa_outdoors/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="LinkedIn Badge">
+</a>
 </div>
 
 <!-- ABOUT THE PROJECT -->
@@ -48,10 +60,7 @@ tertata rapih dalam penyimpanan datanya dan bermanfaat bagi pemilik perusahaan
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-### Proyek ini dibuat oleh
-<a href="https://www.linkedin.com/in/kh-adham/" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
-</a>
+
 
 ### ScreenShoot
 <img src="./assets/Screenshot 2024-05-20 at 17.59.00.png">
@@ -61,3 +70,4 @@ tertata rapih dalam penyimpanan datanya dan bermanfaat bagi pemilik perusahaan
 <img src="./assets/Screenshot 2024-05-20 at 18.00.34.png">
 <img src="./assets/Screenshot 2024-05-20 at 17.59.59.png">
 <img src="./assets/Screenshot 2024-05-20 at 17.59.51.png">
+
