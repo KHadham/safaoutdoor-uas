@@ -8,7 +8,7 @@
     <img src="https://unindra.ac.id/sites/default/files/unindra%20kampus%20merdeka.png" alt="Logo" width="200" height="50">
   </a>
   <a href="https://unindra.ac.id/">
-    <img src="logo-safa-long.png" alt="Logo" width="" height="50">
+    <img src="./assets/logo-safa-long.png" alt="Logo" width="" height="50">
   </a>
 
   <h3 align="center">SAFA OUTDOORS STORE</h3>
@@ -53,3 +53,11 @@ tertata rapih dalam penyimpanan datanya dan bermanfaat bagi pemilik perusahaan
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
 </a>
 
+### ScreenShoot
+<img src="./assets/Screenshot 2024-05-20 at 17.59.00.png">
+<img src="./assets/Screenshot 2024-05-20 at 17.59.20.png">
+<img src="./assets/Screenshot 2024-05-20 at 17.59.32.png">
+<img src="./assets/Screenshot 2024-05-20 at 17.59.41.png">
+<img src="./assets/Screenshot 2024-05-20 at 18.00.34.png">
+<img src="./assets/Screenshot 2024-05-20 at 17.59.59.png">
+<img src="./assets/Screenshot 2024-05-20 at 17.59.51.png">
